@@ -6,7 +6,7 @@
     <description>Recent content on Canfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 02:37:14 +0300</lastBuildDate><atom:link href="https://canfly.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://canfly.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
       <link>https://canfly.org/project/project1/</link>
@@ -40,15 +40,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canfly.org/project/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://canfly.org/posts/my-first-post/</link>
-      <pubDate>Sun, 17 Jan 2021 02:37:14 +0300</pubDate>
-      
-      <guid>https://canfly.org/posts/my-first-post/</guid>
       <description></description>
     </item>
     
@@ -103,7 +94,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canfly.org/about/</guid>
-      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+      <description>Canfly это, нашедшая своё воплощение в информационной среде, современная идеология. У её истоков стоит убеждение, что сознание и культура вместе с интересами и воображением являются основой каждого человека. Более десяти лет, энтузиасты со всего света превращали эту идею в различные проекты и продукты. Каждый новый медиа эксперимент опирался на данные предыдущего: так шаг за шагом были собраны важнейшие элементы из которой сегодня проектируется цифровая платформа.</description>
     </item>
     
   </channel>
