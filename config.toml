@@ -1,65 +1,48 @@
-baseURL = "https://canfly.org/"
+baseURL = "/"
+copyright = "CANFLY"
 languageCode = "en-us"
-title = "Canfly"
 theme = "Minimal"
-#disqusShortname = "username" # delete this to disable disqus comments
-#googleAnalytics = ""
-copyright = "Everything is mine"
-
+title = "Canfly"
+[[menu.icon]]
+name = "fas fa-envelope"
+url = "mailto:support@canfly.org"
+weight = 1
+[[menu.icon]]
+name = "fab fa-github"
+url = "https://github.com/Canfly/"
+weight = 2
+[[menu.icon]]
+name = "fab fa-twitter"
+url = "https://twitter.com/_canfly/"
+weight = 3
+[[menu.icon]]
+name = "fab fa-whatsapp"
+url = "https://wa.me/message/CK27C4PEWA3SD1"
+weight = 4
+[[menu.icon]]
+name = "fab fa-facebook"
+url = "https://www.facebook.com/canfly.org"
+weight = 5
+[[menu.icon]]
+name = "fab fa-vk"
+url = "https://vk.com/canfly_org"
+weight = 6
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
 [params]
-    author = "Adiom Timur"
-    description = "We are looking for interesting teams and doing collaborations with them"
-    githubUsername = "adiom"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
-
-
-
-# Social icons to be shown on the right-hand side of the navigation bar.
-# The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
-
-[[menu.icon]]
-    url = "mailto:support@canfly.org"
-    name = "fas fa-envelope"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/Canfly/"
-    name = "fab fa-github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/_canfly/"
-    name = "fab fa-twitter"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://wa.me/message/CK27C4PEWA3SD1"
-    name = "fab fa-whatsapp"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.facebook.com/canfly.org"
-    name = "fab fa-facebook"
-    weight = 5
-
-[[menu.icon]]
-    url = "https://vk.com/canfly_org"
-    name = "fab fa-vk"
-    weight = 6
+accent = "red"
+author = "Adiom Timur"
+backgroundColor = "white"
+description = "We are looking for interesting teams and doing collaborations with them"
+font = "Raleway"
+githubUsername = "adiom"
+highlight = true
+highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+highlightStyle = "default"
+showBorder = true
