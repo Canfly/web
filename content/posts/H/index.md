@@ -1,8 +1,7 @@
 +++
-draft = true
+pubdate = "now"
 resources = []
 title = "s"
-pubdate = "now"
-+++
 
++++
 fe
